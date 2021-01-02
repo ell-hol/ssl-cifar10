@@ -4,5 +4,5 @@ Simple transfer learning on cifar10 with self-supervised backbone SwAV using Pyt
 Install requirements :
 pip install -r requirements.txt
 
-Start training on CIFAR10
+Start training on CIFAR10 :
 python model.py
